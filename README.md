@@ -107,7 +107,7 @@ Estou sempre aberto para discussões sobre tecnologia, projetos colaborativos ou
 ---
 
 <div 
-  <img src="https://komarev.com/ghpvc/?username=Vncsalves&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vncsas&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
