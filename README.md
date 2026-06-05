@@ -80,7 +80,7 @@ Transformar ideias em código e ver o impacto positivo que a tecnologia pode ter
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vncsalves&theme=dracula&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vncsas&theme=dracula&hide_border=true" alt="Activity Graph" />
 </div>
 ---
 
