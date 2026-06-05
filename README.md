@@ -70,9 +70,9 @@ Transformar ideias em código e ver o impacto positivo que a tecnologia pode ter
 ## 📊 Estatísticas GitHub
 
 <div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vncsalves&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vncsalves&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vncsalves&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vncsas&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncsas&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vncsas&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
