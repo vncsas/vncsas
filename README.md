@@ -2,9 +2,9 @@
 
 <a href="https://github.com/vncsas">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&vCenter=true&width=520&lines=Desenvolvedor+Back-end+%40+DirecTV%2FSky;Apaixonado+por+Arquitetura+de+Software;TypeScript+%7C+Node.js+%7C+NestJS+%7C+AWS;Educador+em+Tecnologia+no+DevMenthors" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=24292F&vCenter=true&width=520&lines=Desenvolvedor+Back-end+%40+DirecTV%2FSky;Apaixonado+por+Arquitetura+de+Software;TypeScript+%7C+Node.js+%7C+NestJS+%7C+AWS;Educador+em+Tecnologia+no+DevMenthors" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&vCenter=true&width=520&lines=Desenvolvedor+Back-end+%40+DirecTV%2FSky;Apaixonado+por+Arquitetura+de+Software;TypeScript+%7C+Node.js+%7C+NestJS+%7C+AWS;Educador+em+Tecnologia+no+DevMenthors" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&vCenter=true&width=520&lines=Desenvolvedor+Back-end+%40+DirecTV%2FSky;Foco+em+Arquitetura+de+Software;TypeScript+%7C+Node.js+%7C+NestJS+%7C+AWS;Educador+em+Tecnologia+no+DevMenthors" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=24292F&vCenter=true&width=520&lines=Desenvolvedor+Back-end+%40+DirecTV%2FSky;Foco+em+Arquitetura+de+Software;TypeScript+%7C+Node.js+%7C+NestJS+%7C+AWS;Educador+em+Tecnologia+no+DevMenthors" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&vCenter=true&width=520&lines=Desenvolvedor+Back-end+%40+DirecTV%2FSky;Foco+em+Arquitetura+de+Software;TypeScript+%7C+Node.js+%7C+NestJS+%7C+AWS;Educador+em+Tecnologia+no+DevMenthors" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -28,7 +28,7 @@
 
 Sou desenvolvedor back-end na **Directv/Sky** e professor de programação no **DevMenthors**, porque acredito que a melhor forma de aprender é ensinando.
 
-Estudo com foco em **Arquitetura e Engenharia de Software**: entender como um sistema é desenhado, por que cada decisão foi tomada e como fazer ele crescer sem virar bagunça. É nisso que quero me especializar, estudando padrões como **Arquitetura Hexagonal**, **Clean Architecture** e **DDD**, e aplicando no dia a dia.
+Estudo com foco em **Arquitetura e Engenharia de Software**: entender como um sistema é desenhado, por que cada decisão foi tomada e como fazer ele crescer sem virar bagunça. É nisso que quero me especializar, aprofundando em padrões como **Arquitetura Hexagonal**, **Clean Architecture** e **DDD**, e aplicando no dia a dia.
 
 Atualmente mergulhado no ecossistema **JavaScript/TypeScript**, trabalhando com **Node.js**, **NestJS**, **Prisma** e **AWS** para construir sistemas escaláveis, bem estruturados e prontos pra crescer.
 
@@ -36,7 +36,7 @@ Atualmente mergulhado no ecossistema **JavaScript/TypeScript**, trabalhando com 
 type Developer = {
   name: string;
   role: string;
-  passion: string[];
+  specializingIn: string[];
   focus: string[];
   stack: string[];
   learning: string[];
@@ -46,9 +46,9 @@ type Developer = {
 const vini: Developer = {
   name: "Vinicius Alves de Santana",
   role: "Back-end Developer @ DirecTV/Sky",
-  passion: ["Arquitetura de Software", "Engenharia de Software"],
+  specializingIn: ["Arquitetura de Software", "Engenharia de Software"],
   focus: ["Sistemas bem arquitetados", "APIs escaláveis", "Ensinar quem está começando"],
-  stack: ["TypeScript", "Node.js", "NestJS", "Prisma", "AWS"],
+  stack: ["TypeScript", "Node.js", "NestJS", "Prisma", "AWS", "AWS CDK"],
   learning: ["Arquitetura Hexagonal", "Clean Architecture", "DDD"],
   education: "Ciência da Computação @ UNIMAR",
 };
@@ -82,6 +82,7 @@ const vini: Developer = {
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CDK" />
 </div>
 
 ### Ferramentas
